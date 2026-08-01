@@ -1,29 +1,36 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+## 个人背景
+
+计算机相关专业在读准大四，27届22408考研苦手。
+对什么都好奇，干啥啥不行（doge）
 
 ## 🛠️ 关于本站
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+只是一个用来记录生活的博客，可能想起来这个站就会来写一点垃圾文字（
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+## 💕 喜欢的东西
 
+- 音乐——包括但不限于吉他 钢琴 小提琴 古典 交响乐 galgame配乐等等 自学钢琴
+- 游戏——玩的最多的是FPS（Apex|三角洲行动|堡垒之夜|CS2|守望先锋）还有大量的主流单机游戏 视觉小说 galgame
+- 动漫——更倾向与一些较为治愈或者不无聊的番剧 包括大部分的热门动漫 百合动漫
+- 计算机专业——Java | Go | 前端 | Agent
+- 球类运动——羽毛球，乒乓球
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+## 🚀 目前使用的设备
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
+- 笔记本：暗影精灵9
+- 手机：荣耀90（家里人给买的）
+- 头戴式耳机：飞利浦shp9500（除了舒服没有别的优点doge）
+- 鼠标：罗技GPW2（之前买的VGN鼠标滚轮失灵，狗急跳墙直接买的）
+- 键盘：VGN某烂大街型号（久经风霜）
+- 显示屏：KTC-H27T（27英寸 2k 165hz）
+- 电钢琴：YAMAHA-P223（二手2100购入）
+- 吉他：YAMAHA-FC800M（当初学的时候不懂吉他乱买的一个面单，1799没记错的话）
+- 耳机：HUAWEI-FreeBudsSE3（百元价位我觉得非常好的一个半入耳式蓝牙耳机）
+- 路由器：360T7（已刷OpenWrt）
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
+*写于2026-08-02凌晨的宿舍*
 
