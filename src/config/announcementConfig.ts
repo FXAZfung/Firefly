@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "我将参与Key上海交响乐音乐会2026——键曲回响~",
+	content: "我将不参与Key上海交响乐音乐会2026——键曲回响😭",
 
 	// 是否允许用户关闭公告
 	closable: true,
